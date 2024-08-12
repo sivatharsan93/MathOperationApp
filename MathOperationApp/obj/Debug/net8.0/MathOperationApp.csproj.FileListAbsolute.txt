@@ -1,0 +1,14 @@
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\bin\Debug\net8.0\MathOperationApp.exe
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\bin\Debug\net8.0\MathOperationApp.deps.json
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\bin\Debug\net8.0\MathOperationApp.runtimeconfig.json
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\bin\Debug\net8.0\MathOperationApp.dll
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\bin\Debug\net8.0\MathOperationApp.pdb
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\obj\Debug\net8.0\MathOperationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\obj\Debug\net8.0\MathOperationApp.AssemblyInfoInputs.cache
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\obj\Debug\net8.0\MathOperationApp.AssemblyInfo.cs
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\obj\Debug\net8.0\MathOperationApp.csproj.CoreCompileInputs.cache
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\obj\Debug\net8.0\MathOperationApp.dll
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\obj\Debug\net8.0\refint\MathOperationApp.dll
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\obj\Debug\net8.0\MathOperationApp.pdb
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\obj\Debug\net8.0\MathOperationApp.genruntimeconfig.cache
+C:\Users\Siva\source\repos\MathOperationApp\MathOperationApp\obj\Debug\net8.0\ref\MathOperationApp.dll
